@@ -141,3 +141,10 @@ footer {
 .tab-section.active {
     display: block;
 }
+
+.responsive-img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
